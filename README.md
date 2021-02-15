@@ -1,0 +1,1 @@
+Simple slider which respondes to mouse, touch, and keydown arrow events.
